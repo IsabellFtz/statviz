@@ -8,11 +8,11 @@ Alle Visualisierungen wurden von mir mit **Plotly in Python** erstellt und ansch
 Du hast zwei Möglichkeiten, sie zu öffnen:
 
 1. **Direkt über GitHub Pages**  
-   Gehe auf [https://isabellftz.github.io/](https://isabellftz.github.io/)  
-   und **ergänze oben in der Adresszeile deines Browsers** den Namen der gewünschten HTML-Datei, z. B.: https://isabellftz.github.io/scatter_demo.html
+   Gehe auf [https://isabellftz.github.io/](https://isabellftz.github.io/) und **ergänze oben in der Adresszeile deines Browsers** den Namen der gewünschten HTML-Datei,
+   z. B.: https://isabellftz.github.io/scatter_demo.html
 
 
-2. **Lokal im Browser öffnen**  
+3. **Lokal im Browser öffnen**  
 Lade eine HTML-Datei aus diesem Repository herunter und öffne sie durch Doppelklick oder per Drag & Drop in deinem Browser.
 
 Du kannst mit der Maus in die Grafiken hineinzoomen, Achsen verschieben oder einzelne Punkte anzeigen lassen – einfach ausprobieren!

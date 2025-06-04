@@ -1,13 +1,9 @@
 # statviz
 
-**Statistische Visualisierungen mit Python und Plotly**
-
 Dieses Repository enthält interaktive und anschauliche Visualisierungen zur Unterstützung des Statistikunterrichts. 
 Mein Ziel ist es, zentrale statistische Konzepte visuell zugänglicher zu machen. 
 
-
 ## Nutzung
-
 Alle Visualisierungen wurden von mir mit **Plotly in Python** erstellt und anschließend als HTML-Dateien exportiert.
 Du hast zwei Möglichkeiten, sie zu öffnen:
 
@@ -20,10 +16,9 @@ Lade eine HTML-Datei aus diesem Repository herunter und öffne sie durch Doppelk
 
 Du kannst mit der Maus in die Grafiken hineinzoomen, Achsen verschieben oder einzelne Punkte anzeigen lassen – einfach ausprobieren!
 
----
+## Fragen, Feedback oder Ideen?
+Wenn du Anregungen hast oder eine Datei bei dir nicht funktioniert, melde dich gerne direkt bei mir. 
+
 
 Viel Spaß beim Durchklicken & Entdecken!
 
-
-## Fragen, Feedback oder Ideen?
-Wenn du Anregungen hast oder eine Datei bei dir nicht funktioniert, melde dich gerne direkt bei mir. 

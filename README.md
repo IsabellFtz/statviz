@@ -8,7 +8,8 @@ Alle Visualisierungen wurden von mir mit **Plotly in Python** erstellt und ansch
 Du hast zwei Möglichkeiten, sie zu öffnen:
 
 1. **Direkt über GitHub Pages**  
-   Gehe auf [https://isabellftz.github.io/statviz](https://isabellftz.github.io/statviz) und **ergänze oben in der Adresszeile deines Browsers** den Namen der gewünschten HTML-Datei (z.B. `scatter_demo.html` -> https://isabellftz.github.io/statviz/scatter_demo.html). 
+   Gehe auf [https://isabellftz.github.io/statviz](https://isabellftz.github.io/statviz) und **ergänze oben in der Adresszeile deines Browsers** den Namen der gewünschten HTML
+   Datei (z.B. `scatter_demo.html` -> https://isabellftz.github.io/statviz/scatter_demo.html). 
 
 
 3. **Lokal im Browser öffnen**  

@@ -9,7 +9,8 @@ Du hast zwei Möglichkeiten, sie zu öffnen:
 
 1. **Direkt über GitHub Pages**  
    Gehe auf [https://isabellftz.github.io/](https://isabellftz.github.io/)  
-   und gib dort den Namen der gewünschten Datei ein, z. B.:
+   und **ergänze oben in der Adresszeile deines Browsers** den Namen der gewünschten HTML-Datei, z. B.: https://isabellftz.github.io/scatter_demo.html
+
 
 2. **Lokal im Browser öffnen**  
 Lade eine HTML-Datei aus diesem Repository herunter und öffne sie durch Doppelklick oder per Drag & Drop in deinem Browser.
@@ -18,6 +19,8 @@ Du kannst mit der Maus in die Grafiken hineinzoomen, Achsen verschieben oder ein
 
 ## Fragen, Feedback oder Ideen?
 Wenn du Anregungen hast oder eine Datei bei dir nicht funktioniert, melde dich gerne direkt bei mir. 
+
+
 
 
 Viel Spaß beim Durchklicken & Entdecken!

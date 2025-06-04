@@ -16,7 +16,7 @@ Lade eine HTML-Datei aus diesem Repository herunter und öffne sie durch Doppelk
 
 Du kannst mit der Maus in die Grafiken hineinzoomen, Achsen verschieben oder einzelne Punkte anzeigen lassen. Probiere es einfach mal ausprobieren!
 
-## Fragen, Feedback oder Ideen?
+## Feedback?
 Wenn du Anregungen hast oder eine Datei bei dir nicht funktioniert, melde dich gerne direkt bei mir. 
 
 
